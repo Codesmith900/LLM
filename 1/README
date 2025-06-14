@@ -1,0 +1,25 @@
+NLP Preprocessing Web App
+This project demonstrates core NLP preprocessing techniques with an interactive web interface using NLTK, spaCy, FastAPI, and Streamlit.
+
+Objective
+Apply fundamental natural language processing (NLP) techniques and provide a web-based demo for users to explore these transformations interactively.
+
+Features:
+Tokenization
+
+Lemmatization
+
+Stemming
+
+POS Tagging
+
+Named Entity Recognition (NER)
+
+Comparison between Lemmatization vs Stemming with 10+ examples
+
+REST API for each preprocessing task (built with FastAPI)
+
+Interactive Web Interface using Streamlit
+
+
+
