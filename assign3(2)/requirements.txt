@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb
+ollama
+pypdf
+beautifulsoup4
+aiohttp
+loguru
+python-multipart
