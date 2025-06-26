@@ -1,0 +1,16 @@
+Classifying: Apple unveils new iPhone with revolutionary camera technology
+
+1) Direct:  business
+
+2) Few-shot:  The classification for this headline would be "technology".
+
+3) Chain-of-thought:  
+    1. Read the headline: "Apple unveils new iPhone with revolutionary camera technology"
+    2. Identify key entities and terms: Apple, new iPhone, camera technology
+    3. Consider the context of the headline: The headline is about a company (Apple) revealing a new product (iPhone) that features advanced technological innovation (revolutionary camera technology).
+    4. Compare with category definitions:
+    - Sports: involves teams, players, matches, tournaments
+    - Business: involves companies, profits, markets, economy
+    5. Analyze which category fits best: The headline discusses a company and its product, not teams or players, so it does not fall under sports. It focuses on a business event – the unveiling of a new device by Apple, which is an example of business-related news.
+    6. Explain your reasoning: The term "sports" refers to activities involving physical exertion and competition between individuals or teams. In contrast, the term "business" relates to commercial transactions and financial investments. Since the headline discusses a new product launched by Apple, it falls under the category of business.
+    7. Final classification: This news belongs to the "Business" category.
