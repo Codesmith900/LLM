@@ -1,0 +1,5 @@
+BASICPROMPT : 90% (ZERO-SHOT)
+MANUAL PROMPT: <90% (FEW-SHOT)
+AUTOMATED PROMPT: 100% (MONTE CARLO OPTIMIZATION FOR BEST PROMPT FINDING)
+
+INFERENCE: Manual prompt tuning requires accurate and wide variety of data that can demonstrate needed patterns otherwise result may be poor.
